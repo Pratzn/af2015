@@ -2,8 +2,8 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>org.cloudfoundry.samples</groupId>
-	<artifactId>hello-spring-mysql</artifactId>
+	<groupId>com.pratz</groupId>
+	<artifactId>af2015</artifactId>
 	<name>hello-spring-mysql</name>
 	<packaging>war</packaging>
 	<version>1.0.0-BUILD-SNAPSHOT</version>
